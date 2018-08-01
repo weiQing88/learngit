@@ -1,0 +1,5 @@
+A timeline is a container for tweens where you place them in time (like a schedule). 
+They can overlap or have gaps between them; you have total control. As the timeline's playhead moves, 
+it scrubs across its child tweens and renders them accordingly! Insert as many as you want and control 
+the entire group as a whole with the standard methods (play(), reverse(), pause(), etc.).
+ You can even nest timelines within timelines!
